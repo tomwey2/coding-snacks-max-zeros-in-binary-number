@@ -1,8 +1,9 @@
-# Problem #1
+# Coding Snack
+Look the [YouTube Video](https://www.youtube.com/watch?v=s1Zxe673NOo&t=115s) at my YouTube Chanel "Coding Snacks"
+
+## Problem #1
 What is the maximum number of consecutive zeros in a given binary number 
 that are surrounded by ones?
-
-Look the [YouTube Video](https://www.youtube.com/watch?v=s1Zxe673NOo&t=115s) at Coding Snacks
 
 ### Examples:
 
