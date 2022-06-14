@@ -2,6 +2,8 @@
 What is the maximum number of consecutive zeros in a given binary number 
 that are surrounded by ones?
 
+Look the [YouTube Video](https://www.youtube.com/watch?v=s1Zxe673NOo&t=115s) at Coding Snacks
+
 ### Examples:
 
 | dez   |                 bin | result |
