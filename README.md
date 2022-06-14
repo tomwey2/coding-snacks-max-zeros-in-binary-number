@@ -1,4 +1,4 @@
-# Coding Snack
+# Coding Snacks
 Look the [YouTube Video](https://www.youtube.com/watch?v=s1Zxe673NOo&t=115s) at my YouTube Chanel "Coding Snacks"
 
 ## Problem #1
